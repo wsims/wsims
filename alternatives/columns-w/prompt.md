@@ -1,0 +1,9 @@
+# Columns W alternative
+
+Tool: built-in image generation. A separate concept; the current artwork and README remain selected.
+
+Use the attached website image ONLY as a reference for pixel treatment, palette, and visual language. Create a NEW standalone panoramic 3:1 illustration, not an edit of the reference. Match its coarse visible square pixel grid, genuinely 2D hand-placed shapes, limited warm grayscale palette, chunky architectural shading, selective dithering, and pale overcast light. This must look like it belongs to that reference's pixel-art world, not a realistic painting with a pixel filter.
+
+Concept: a small sculptural W assembled from four weathered fluted Greek marble column shafts, resting on a low stepped stone plinth. The four shafts form the four diagonal strokes of a W, with recognizable Ionic capitals and stone bases, considered proportions, and a convincing sculptural arrangement. It is a subtle personal architectural monogram within a quiet scene, not a giant logo pasted over a landscape. Keep the silhouette legible at a small GitHub README size. Place the sculptural group slightly left of center with generous breathing room. Very sparse low stone ruins, a low distant ridge, and quiet pale clouds form the setting. The W should be formed by the architecture itself; no separate lettering.
+
+Keep the scene restrained, elegant, and monochrome with ivory, charcoal, and warm gray only. The subject occupies roughly the central half of the width. Crisp blocky edges and visible stair-stepped pixels throughout. No text, names, slogans, framing columns at both edges, badges, charts, snakes, trails, people, saturated colors, gold, cyan, smooth photorealistic textures, glossy 3D, or elaborate foliage. No decorative interface. This is one alternative for comparison, not a replacement for existing artwork.
