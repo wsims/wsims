@@ -6,7 +6,7 @@
   <a href="https://willsims.co"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-website-dark.svg"><img alt="Website willsims.co" src="assets/social-website-light.svg" height="32"></picture></a>
 </p>
 
-<p>I build safety products at Meta Superintelligence Labs and co-founded <a href="https://arcapp.co">Arc AI</a>.</p>
+<p>I build safety products at Meta Superintelligence Labs and co-founded Arc AI.</p>
 
 <p>Previously, I led product and engineering teams at Amazon Game Studios and Twitch Prime.</p>
 
