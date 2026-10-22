@@ -1,6 +1,6 @@
 # GitHub profile
 
-The profile lives in the public `wsims/wsims` repository. `README.md` supplies the content. `assets/` contains the approved social buttons and selected Odyssey illustration as self-contained SVGs. The artwork is the same in both themes; the social buttons adapt to light and dark mode.
+The profile lives in the public `wsims/wsims` repository. `README.md` supplies the content. `assets/` contains the approved social buttons and selected evergreen mountain illustration as self-contained SVGs. The artwork is the same in both themes; the social buttons adapt to light and dark mode.
 
 ## Preview
 
@@ -10,7 +10,7 @@ Run `npm run preview`, then open http://127.0.0.1:4175. The preview includes a l
 
 Edit `README.md` for copy and links. Run `npm run render` to rebuild the artwork wrappers and social buttons. Rendering is offline and deterministic. No contribution data, tokens, scheduled workflows, or external image dependencies are used.
 
-The selected artwork master and built-in image-generation prompt are in [alternatives/odyssey/](alternatives/odyssey/). The optimized production image is `source/odyssey.webp`. The original day/night stoa artwork and prompts remain in [source/art-direction.md](source/art-direction.md), and the original profile layout is preserved in [alternatives/original-stoa/README.md](alternatives/original-stoa/README.md).
+The selected artwork master and built-in image-generation prompt are in [alternatives/evergreen-mountain/](alternatives/evergreen-mountain/). The optimized production image is `source/odyssey.webp`. Earlier artwork alternatives, the original day/night stoa artwork, and its prompts remain in the repository.
 
 ## Publish
 

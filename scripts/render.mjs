@@ -52,7 +52,7 @@ async function stoa(theme, mode) {
 
 async function odyssey() {
   const source = await read("source/odyssey.webp");
-  return svg(2164, 727, "Odyssey", "A torchlit Greek sanctuary overlooks a vivid blue sea, with a distant sail beneath violet and gold skies.", `
+  return svg(2164, 727, "Evergreen mountain", "Greek columns and evergreen forests overlook blue-green water and an original alpine mountain.", `
     <defs><clipPath id="frame"><rect width="2164" height="727" rx="20"/></clipPath></defs>
     <image width="2164" height="727" href="data:image/webp;base64,${source.toString("base64")}" clip-path="url(#frame)"/>
   `);
@@ -64,4 +64,4 @@ for (const [mode, theme] of Object.entries(themes)) {
   await write(`assets/stoa-${mode}.svg`, await stoa(theme, mode));
   for (const key of Object.keys(socials)) await write(`assets/social-${key}-${mode}.svg`, badge(theme, key));
 }
-console.log("Rendered Odyssey artwork, preserved stoa variants, and social buttons.");
+console.log("Rendered evergreen mountain artwork, preserved stoa variants, and social buttons.");

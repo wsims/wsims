@@ -15,4 +15,4 @@
   <li><a href="https://willsims.co/compounding">Compounding</a> - Newsletter on using AI to build a great life.</li>
 </ul>
 
-<p><img alt="Pixel art of a torchlit Greek sanctuary overlooking a vivid blue sea, with a distant sail beneath violet and gold skies." src="assets/odyssey.svg" width="100%"></p>
+<p><img alt="Pixel art of Greek columns and evergreen forests overlooking blue-green water and an original mountain peak." src="assets/odyssey.svg" width="100%"></p>
